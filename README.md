@@ -27,6 +27,7 @@ The Administrative role initiates the creation of flight and seat category infor
 * Spring Security = JWT Role based authentication and Authorization
 * API Code documentation = Swagger-UI
 * REST API testing = Postman Client
+* Application Health Checks = Actuator
 * Utilized the SMTP protocol in Java for sending emails.
 * IDE'S = Spring Tool Suite, Visual Studio Code, MySql Workbench.
 
