@@ -27,7 +27,7 @@ export default function Footer() {
         <InstagramIcon className="logos instagram" />
         <TwitterIcon className="logos twitter" />
         <YouTubeIcon className="logos youtube" />
-        <Link to={"/"}>
+        <Link to={"https://github.com/manjula-s-13/Airlines-Reservation-System"}>
           <GitHubIcon className="logos" sx={{ color: "white" }} />
         </Link>
       </Stack>
